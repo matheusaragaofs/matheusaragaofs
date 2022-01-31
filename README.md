@@ -27,9 +27,9 @@
   <img align="center" alt="panda-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2021/09/imagens-e-gifs-fofos-para-baixar-4.gif">
 </div>
 
-  
+    ![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
+
 
 
  
 
-  ![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
