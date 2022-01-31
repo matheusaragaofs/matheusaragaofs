@@ -30,6 +30,5 @@
     ![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
 
 
-
  
 
