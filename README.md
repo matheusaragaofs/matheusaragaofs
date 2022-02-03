@@ -67,8 +67,12 @@
   
 ![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
   <br> 
-  *probably the snake is starving* 🐍
 
+<div align="center" width="50%">
+  <a href="https://git.io/typing-svg">
+    <img width="30%" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=probably+the+%F0%9F%90%8D+is+starving..." alt=" *probably the snake is starving* 🐍"/>
+  </a>
+</div>
 
   <br>
     <div align='center'> 
