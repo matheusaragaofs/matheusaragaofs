@@ -1,4 +1,9 @@
 
+<div align="center" width="90%">
+  <a href="https://git.io/typing-svg">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%2367E480&size=15&center=true&vCenter=true&lines=Hello+World;Welcome+to+my+profile+%3A%29" alt="Welcome to my profile"/>
+  </a>
+</div>
 
 <div align="center" style="display:flex" >
 <div align="center">
