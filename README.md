@@ -6,10 +6,11 @@ I love working with technologies that allow me to unravel data mysteries and bui
 
 ## 🌱 What i'm currently learning/focusing On:
 
-* **Azure Data Factory**: Orchestrating ETL/ELT pipelines in the cloud.
-* **Databricks / PySpark**: Scalable distributed data processing and Lakehouse architecture with Delta Lake.
-* **Data Warehousing & Lakehouse Concepts**: Data modeling, storage, and optimization for analytics.
-* **Cloud Data Engineering**: Building scalable and resilient solutions in environments like Azure.
+I'm specializing in the **Azure** and **Databricks** ecosystem, with a deep focus on **ELT/ETL orchestration** and **scalable data processing**.
+
+* **Azure Data Factory (ADF):** Mastering the design and orchestration of resilient data pipelines in the cloud.
+* **Databricks / PySpark:** Implementing high-performance, distributed data processing and leveraging the **Lakehouse** architecture with **Delta Lake**.
+* **Cloud Data Engineering:** Building scalable and optimized data warehousing solutions within the Azure environment.
 
 ## 🚀 Featured Projects
 ### ⚽ [**Football Data Engineering with Azure and Apache Airflow**](https://github.com/matheusaragaofs/football_data_analytics)
